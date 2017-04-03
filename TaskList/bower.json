@@ -1,0 +1,6 @@
+{
+  "name": "TaskList",
+  "dependencies": {
+    "jQuery": "3.2.1"
+  }
+}
